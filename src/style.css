@@ -2,6 +2,10 @@ html {
   --moyo-blue: #00acdc;
 }
 
+h1 {
+  visibility: hidden;
+}
+
 body {
   margin: 0;
   padding: 0;
