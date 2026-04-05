@@ -2,7 +2,7 @@ html {
   --moyo-blue: #00acdc;
 }
 
-.visually-hidden {
+.visual-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
